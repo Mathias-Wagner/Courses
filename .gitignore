@@ -1,3 +1,8 @@
+# Configurations
+.ipynb_checkpoints
+_MACOSX
+*.DS_Store
+
 # Virtual environments
 .venv*
 venv*
@@ -5,3 +10,18 @@ venv*
 # Course-Materials
 Materials
 Course-Materials
+Data
+
+# Office Files & Co
+*.csv
+*.html
+*.pdf
+*.pptx
+*.xlsx
+
+# Pictures
+*.png
+*.jpeg
+
+# Workspace Files
+*.code-workspace
